@@ -1,0 +1,11 @@
+10
+concurrency
+parallel
+racecondition
+thread
+synchronized
+thispracishard
+interleaving
+volatile
+amdahl
+moore
